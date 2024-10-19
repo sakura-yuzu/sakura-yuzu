@@ -11,5 +11,3 @@ What is YuzuSakura made of? -- Programming, Illust, Music, Modeling, and all tha
 <a href="https://www.youtube.com/channel/UCr6zdthmgsDpuJe789TeuVw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube link" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/k_t_k_r_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="twitch link" height="30" width="40" /></a>
 </p>
-
-![F5VotyIaMAAEeAn](https://github.com/sakura-yuzu/sakura-yuzu/assets/16505085/d06b5010-6963-4409-b372-8d5f7a9c58bc)
